@@ -1,0 +1,6 @@
+{
+  "name": "الجمعية الخيرية بشرباص",
+  "description": "النظام الإلكتروني المتكامل لإدارة أعمال الجمعية الخيرية بشرباص: الموقع العام، لوحة تحكم الإدارة والمالية والحالات والمخازن، وبوابة المتبرعين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
